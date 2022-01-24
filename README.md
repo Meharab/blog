@@ -1,2 +1,2 @@
 # blog
-only technical writers on technology 
+technical writings on technology 
